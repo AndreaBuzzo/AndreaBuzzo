@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **A lot of programming languages and new skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AndreaBuzzo/AndreaBuzzo](https://github.com/AndreaBuzzo)
+- 👨‍💻 All of my projects are available at [https://github.com/AndreaBuzzo](https://github.com/AndreaBuzzo)
 
 - 💬 Ask me about **everything**
 
